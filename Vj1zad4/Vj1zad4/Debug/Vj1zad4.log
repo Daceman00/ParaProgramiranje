@@ -1,0 +1,4 @@
+﻿  Vj1zad4.cpp
+C:\Users\Korisnik\source\repos\Vj1zad4\Vj1zad4\Vj1zad4.cpp(15,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Korisnik\source\repos\Vj1zad4\Vj1zad4\Vj1zad4.cpp(13,25): warning C4101: 'i': unreferenced local variable
+  Vj1zad4.vcxproj -> C:\Users\Korisnik\source\repos\Vj1zad4\Debug\Vj1zad4.exe

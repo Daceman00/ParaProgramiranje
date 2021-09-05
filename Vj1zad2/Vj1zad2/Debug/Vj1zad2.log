@@ -1,0 +1,3 @@
+﻿  Vj1zad2.cpp
+C:\Users\Korisnik\source\repos\Vj1zad2\Vj1zad2\Vj1zad2.cpp(16,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Vj1zad2.vcxproj -> C:\Users\Korisnik\source\repos\Vj1zad2\Debug\Vj1zad2.exe

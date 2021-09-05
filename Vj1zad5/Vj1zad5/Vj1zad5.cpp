@@ -27,7 +27,7 @@ int main()
     for (i = 0; i < dim; i++)
         for (j = 0; j < dim; j++)
             matA[i][j] = rand() % 10;
-
+    // Zbrajanje elemnata svakog stupca
     for (i = 0; i < dim; i++) {
         int suma = 0;
         for (j = 0; j < dim; j++) {
@@ -35,7 +35,7 @@ int main()
         }
         niz[i] = suma;
     }
-
+   
     cout << "Ispis matrice " << endl;
     for (int i = 0; i < dim; i++) {
         cout << "\n";
